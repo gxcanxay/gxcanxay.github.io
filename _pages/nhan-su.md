@@ -24,7 +24,7 @@ categories: []
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/cha-pho-hien-tai.jpg" title="Cha phó hiện tại"/>
+    <img src="{{site.baseurl}}/assets/images/nhan-su/cha-pho-giuse-nguyen-duc-thinh.jpg" title="Cha phó hiện tại"/>
     <p>Cha Phó hiện tại Giuse Nguyễn Đức Thịnh về giáo xứ ngày 10/08/2018</p>
 </div>
 
