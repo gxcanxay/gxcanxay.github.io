@@ -1,0 +1,45 @@
+# Site
+name: 'GX Cần Xây'
+title: 'GX Cần Xây'
+description: 'Thông tin về giáo xứ'
+meta_description: 'giao xu, can xay, blog'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: '' # does not include hostname
+google_analytics: 'UA-46278016-1'
+disqus: 'gxcanxay'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ['_pages']
+permalink: /:title/
+
+# Authors
+authors:
+  va:
+    name: Việt Anh
+    display_name: Việt Anh
+    gravatar: 0e4f87e7145d5bd8b1ff1d74730af0d4
+    email: vietanhtong1508@gmail.com
+    twitter: https://twitter.com/VietAnhTong
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+highlighter: rouge
