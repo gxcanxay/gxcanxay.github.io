@@ -7,9 +7,6 @@ new: true
 image: https://i.imgur.com/UUaVceG.jpg
 ---
 
-<div class="center">
-    <img src="https://i.imgur.com/UUaVceG.jpg" title="Cần Xây đón Chúa Hài Đồng" />
-</div>
 Để chuẩn bị cho lễ giáng sinh từ 3 tuần trước, Cha sở, Cha phó, Hội đồng mục vụ, các sơ, ban trị sự các khu, đại diện các hội đoàn đã họp để phân công người chịu trách nhiệm cụ thể cho từng công việc. Vì thế, khi bắt tay vào làm mọi sự đều trôi chảy: người làm hang đá, người treo đèn, cờ, người tập hoạt cảnh, người làm vệ sinh…Hình thức đã vậy, tâm hồn cũng được chuẩn bị rất chu đáo, chiều thứ năm ngày 23/12 các cha còn ngồi tòa tới 4g để những ai bận rộn chưa kịp dọn tâm hồn, các cha nhà hưu cũng sẵn sàng ngồi tòa bất cứ lúc nào khi có ai cần các Ngài. Tới trưa 24/12 mọi việc đã hoàn thành chỉ còn chờ tới giờ thánh lễ kỷ niệm Chúa sinh ra. Ngay từ 5 giờ 30 những người lo trật tự của các khu đã vào vị trí, do sự gắn bó tình cảm tốt giữa giáo quyền và chính quyền nên hai bên đã phối hợp giữ trật tự thật tốt.
 
 <div class="center">

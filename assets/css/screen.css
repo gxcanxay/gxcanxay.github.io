@@ -325,6 +325,7 @@ blockquote {
 .featured-image {
     display: block;
     margin-bottom: 1.5rem;
+    margin: auto;
 }
 
 .share {
@@ -835,9 +836,4 @@ iframe {
 
 .sticky-top-80 {
     top: 80px;
-}
-
-.center {
-    text-align: center;
-    margin-bottom: 5px;
 }
