@@ -9,14 +9,14 @@ categories: []
 ### Chịu trách nhiệm tại giáo phận
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/duc-cha-giuse.jpg" height="250px" title="Đức cha Giuse Trần Văn Toản"/>
+    <img src="https://i.imgur.com/ADCWbb5.jpg" height="250px" title="Đức cha Giuse Trần Văn Toản"/>
     <p>Đức Cha: Giuse Trần Văn Toản</p>
 </div>
 
 ### Chịu trách nhiệm tại giáo xứ
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/cha-so-nguyen-cha-pho.jpg" height="400px" title="Cha sở và nguyên cha phó"/>
+    <img src="https://i.imgur.com/4BTWXLO.jpg" height="400px" title="Cha sở và nguyên cha phó"/>
     <p>
         Cha Sở: Phaolô Trần Văn Khoa (phải hình)<br/>
         Nguyên cha phó: FX. Châu Quang Lộc (trái hình)
@@ -24,19 +24,19 @@ categories: []
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/cha-pho-giuse-nguyen-duc-thinh.jpg" title="Cha phó hiện tại"/>
+    <img src="https://i.imgur.com/cwduZ2k.jpg" title="Cha phó hiện tại"/>
     <p>Cha Phó hiện tại Giuse Nguyễn Đức Thịnh về giáo xứ ngày 10/08/2018</p>
 </div>
 
 ### Hội đồng mục vụ
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/hoi-dong-muc-vu-khoa-1.jpg" title="Hội đồng mục vụ khóa I"/>
+    <img src="https://i.imgur.com/6upfDd9.jpg" title="Hội đồng mục vụ khóa I"/>
     <p>Khóa I (2010-2014)</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/hoi-dong-muc-vu-khoa-2.jpg" title="Hội đồng mục vụ khóa II"/>
+    <img src="https://i.imgur.com/4SHFFew.jpg" title="Hội đồng mục vụ khóa II"/>
     <p>Khóa II (2015-2019)</p>
 </div>
 
@@ -47,14 +47,14 @@ categories: []
 5. Thư ký: Ông LÊO Thái Kim Quốc Hiếu
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/nguyen-cha-so-va-hoi-dong-muc-vu.jpg" title="Nguyên Cha sở, Hội đồng mục vụ và ban trị sự các khu"/>
+    <img src="https://i.imgur.com/DsVWyod.jpg" title="Nguyên Cha sở, Hội đồng mục vụ và ban trị sự các khu"/>
     <p>Nguyên Cha sở, Hội đồng mục vụ và ban trị sự các khu</p>
 </div>
 
 ### Ban trị sự các khu
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/ban-tri-su-khu-1.jpg" title="Ban trị sự khu I"/>
+    <img src="https://i.imgur.com/4hSwdWB.jpg" title="Ban trị sự khu I"/>
     <p>Ban trị sự khu I</p>
 </div>
 - Trưởng khu: Ông Anrê Nguyễn Phi Hùng
@@ -64,28 +64,28 @@ categories: []
   - Ông Huỳnh Lê Dinh
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/ban-tri-su-khu-2.jpg" title="Ban trị sự khu II"/>
+    <img src="https://i.imgur.com/o3wL3rP.jpg" title="Ban trị sự khu II"/>
     <p>Ban trị sự khu II</p>
 </div>
 - Trưởng khu: Ông Phêrô Nguyễn Văn Ngọc
 - Phó khu: Ông Nguyễn Quốc Hưng
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/ban-tri-su-khu-3.jpg" title="Ban trị sự khu III"/>
+    <img src="https://i.imgur.com/GX8pKZr.jpg" title="Ban trị sự khu III"/>
     <p>Ban trị sự khu III</p>
 </div>
 - Trưởng khu: Ông Anrê Phạm Tấn Lực
 - Phó khu: Ông Phạm Phú Sư
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/ban-tri-su-khu-4.jpg" title="Ban trị sự khu IV"/>
+    <img src="https://i.imgur.com/ckshDTz.jpg" title="Ban trị sự khu IV"/>
     <p>Ban trị sự khu IV</p>
 </div>
 - Trưởng khu: Ông Giuse Lê Thành Nguyên
 - Phó Khu: Ông Võ Hồng Nam
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/ban-tri-su-khu-5.jpg" title="Ban trị sự khu V"/>
+    <img src="https://i.imgur.com/VoBra6Z.jpg" title="Ban trị sự khu V"/>
     <p>Ban trị sự khu V</p>
 </div>
 - Trưởng khu: Ông Đaminh Hồ văn Mười
@@ -94,7 +94,7 @@ categories: []
   - Ông Nguyễn Duy Thiện
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/ban-tri-su-khu-6.jpg" title="Ban trị sự khu VI"/>
+    <img src="https://i.imgur.com/jTMPC1G.jpg" title="Ban trị sự khu VI"/>
     <p>Ban trị sự khu VI</p>
 </div>
 - Trưởng khu: Ông Nguyễn Văn Ba (Cương)
@@ -121,11 +121,11 @@ categories: []
   - _Thủ quỹ:_ Bà Maria Phùng Thị Xuân
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/hoi-cac-ba-me-cong-giao.jpg" title="Hội các bà mẹ Công giáo"/>
+    <img src="https://i.imgur.com/nsRiJje.jpg" title="Hội các bà mẹ Công giáo"/>
 </div>
 
 <div style="text-align:center; margin-top:5px">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/hoi-cac-ba-me.jpg" title="Hội các bà mẹ Công giáo"/>
+    <img src="https://i.imgur.com/9M6teSx.jpg" title="Hội các bà mẹ Công giáo"/>
 </div>
 
 - Ca đoàn

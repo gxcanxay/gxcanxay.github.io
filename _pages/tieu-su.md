@@ -19,89 +19,89 @@ Giáo xứ Cần Xây được hình thành như thế nào cho đến nay, khô
 Từ: ? đến 1954 : Cha Collot.
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-qui.jpg" title="Cha Quí"/>
-    <p>1954 - 1968: Cha Quí</p>
+    <img src="https://i.imgur.com/pwX4kdV.jpg" title="Cha Phaolo Trần Ngọc Quí"/>
+    <p>1954 - 1968: Cha Phaolo Trần Ngọc Quí</p>
 </div>
 
 Cha Phong
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-phero-tran-minh-tan.jpg" title="Cha Phêrô Trần Minh Tân"/>
+    <img src="https://i.imgur.com/SfdoTO6.jpg" title="Cha Phêrô Trần Minh Tân"/>
     <p>Cha Phêrô Trần Minh Tân</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-micae-bui-duc-ngoan.jpg" title="Cha Micae Bùi Đức Ngoạn"/>
+    <img src="https://i.imgur.com/MA40Bdj.jpg" title="Cha Micae Bùi Đức Ngoạn"/>
     <p>1968 - 1970: Cha Micae Bùi Đức Ngoạn</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-giuse-do-xuan-an.jpg" title="Cha Giuse Đỗ Xuân An"/>
+    <img src="https://i.imgur.com/TdHlAjJ.jpg" title="Cha Giuse Đỗ Xuân An"/>
     <p>1970 - 1974: Cha Giuse Đỗ Xuân An</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-micae-bui-duc-ngoan.jpg" title="Cha Micae Bùi Đức Ngoạn"/>
+    <img src="https://i.imgur.com/MA40Bdj.jpg" title="Cha Micae Bùi Đức Ngoạn"/>
     <p>1974 - 1975: Cha Micae Bùi Đức Ngoạn</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-phanxico-nguyen-van-duong.jpg" title="Cha Phanxicô Nguyễn Văn Dương"/>
-    <p>1975 - 1979: Cha Phanxicô Nguyễn Văn Dương</p>
+    <img src="https://i.imgur.com/IJSbFFS.jpg" title="Cha Phanxicô Xaviê Nguyễn Văn Dương"/>
+    <p>1975 - 1979: Cha Phanxicô Xaviê Nguyễn Văn Dương</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-giuse-nguyen-van-khan.jpg" title="Cha Giuse Nguyễn Văn Khấn"/>
+    <img src="https://i.imgur.com/K21mLif.jpg" title="Cha Giuse Nguyễn Văn Khấn"/>
     <p>1979 - 1993: Cha Giuse Nguyễn Văn Khấn</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-hippolito-nguyen-truong-sanh.jpg" title="Cha Hippolitô Nguyễn Trường Sanh"/>
-    <p>1993 - 1996: Cha Hippolitô Nguyễn Trường Sanh</p>
+    <img src="https://i.imgur.com/3iSG1A2.jpg" title="Cha Hypolitô Nguyễn Trường Sanh"/>
+    <p>1993 - 1996: Cha Hiyolitô Nguyễn Trường Sanh</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-phaolo-nguyen-ngoc-thu.jpg" title="Cha Phaolô Nguyễn Ngọc Thử"/>
+    <img src="https://i.imgur.com/jtBIqj7.jpg" title="Cha Phaolô Nguyễn Ngọc Thử"/>
     <p>Cha Phaolô Nguyễn Ngọc Thử</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-anton-nguyen-thanh-minh.jpg" title="Cha Antôn Nguyễn Thanh Minh"/>
+    <img src="https://i.imgur.com/jkJkz61.jpg" title="Cha Antôn Nguyễn Thanh Minh"/>
     <p>Cha Antôn Nguyễn Thanh Minh</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-phaolo-vu-suu.jpg" title="Cha Phaolô Vũ Sửu"/>
+    <img src="https://i.imgur.com/hbLaPPK.jpg" title="Cha Phaolô Vũ Sửu"/>
     <p>Cha Phaolô Vũ Sửu</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-giuse-do-xuan-an.jpg" title="Cha Giuse Đỗ Xuân An"/>
+    <img src="https://i.imgur.com/TdHlAjJ.jpg" title="Cha Giuse Đỗ Xuân An"/>
     <p>1996 - 1999: Cha Giuse Đỗ xuân An</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-phero-nguyen-tan-khoa.jpg" title="Cha sở Phêrô Nguyễn Tấn Khoa"/>
+    <img src="https://i.imgur.com/bMVSJui.jpg" height="200px" title="Cha sở Phêrô Nguyễn Tấn Khoa"/>
     <p>1999 - 2008: Cha sở Phêrô Nguyễn Tấn Khoa</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-micae-pham-duc-tuong.jpg" title="Cha phó Micae Phạm Đức Tường"/>
+    <img src="https://i.imgur.com/30PNFt3.jpg" height="250px" title="Cha phó Micae Phạm Đức Tường"/>
     <p>Cha phó Micae Phạm Đức Tường</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-phero-mai-duc-vuong.jpg" title="Cha sở Phêrô Mai Đức Vượng"/>
+    <img src="https://i.imgur.com/oY0u2OW.jpg" height="200px" title="Cha sở Phêrô Mai Đức Vượng"/>
     <p>2008 - 2016: Cha sở Phêrô Mai Đức Vượng</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-micae-pham-duc-tuong.jpg" title="Cha phó Micae Phạm Đức Tường"/>
+    <img src="https://i.imgur.com/30PNFt3.jpg" height="250px" title="Cha phó Micae Phạm Đức Tường"/>
     <p>2008 - 2014: Cha phó Miace Phạm Đức Tường</p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/cha-so-nguyen-cha-pho.jpg" title="Cha sở Phaolô Trần Văn Khoa"/>
+    <img src="https://i.imgur.com/4BTWXLO.jpg" title="Cha sở Phaolô Trần Văn Khoa"/>
     <p>
         21/07/2016: Cha sở Phaolô Trần Văn Khoa<br/>
         Cha Phó FX. Châu Quang Lộc
@@ -109,14 +109,14 @@ Cha Phong
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/tieu-su/cha-px-chau-quang-loc.jpg" title="Cha PX Châu Quang Lộc"/>
+    <img src="https://i.imgur.com/5TjfRUj.jpg" title="Cha PX Châu Quang Lộc"/>
     <p>
         Cha Phó FX. Châu Quang Lộc đã chuyển về làm cha sở giáo xứ Rạch Sâu ngày 16/05/2018 (21/7/2016 - 16/05/2018)
     </p>
 </div>
 
 <div style="text-align:center;">
-    <img src="{{site.baseurl}}/assets/images/nhan-su/cha-pho-giuse-nguyen-duc-thinh.jpg" title="Cha phó Giuse Nguyễn Đức Thịnh"/>
+    <img src="https://i.imgur.com/cwduZ2k.jpg" title="Cha phó Giuse Nguyễn Đức Thịnh"/>
     <p>10/08/2018 Giáo xứ đón cha phó Giuse Nguyễn Đức Thịnh</p>
 </div>
 
@@ -156,15 +156,15 @@ Gần 2200 giáo dân sống dọc theo quốc lộ 91 và một phần rạch C
 
 Giáo Xứ trải qua 04 nhà thờ:
 
-- _Nhà thờ đầu tiên:_ Nằm sát bờ sông Tiền trước mặt, bên kia quốc lộ 91 hiện tại, bằng gỗ, lợp ngói, diện tích 4m X 6m. Thời Cha Collot.
+- _Nhà thờ đầu tiên:_ Nằm sát bờ sông Tiền trước mặt, bên kia quốc lộ 91 hiện tại, bằng gỗ, lợp ngói, diện tích 4m x 6m. Thời Cha Collot.
 - _Nhà thờ thứ hai:_ Nhà thờ mé sông bị lở đất nên được Cha Collot dời vào bên trong sân nhà thờ hiện tại phía Châu đốc, năm 1949 vẫn vật liệu và diện tích như cũ, nhưng được thêm sàn gỗ (còn gọi là nhà thờ lầu).
-- _Nhà thờ thứ ba:_ Do số giáo dân ngày càng tăng nên Cha Phaolô Trần ngọc Quí cùng các ông biện việc Hỏa và Quí xây dựng nhà thờ nằm trong sân nhà thờ ở phía dưới diện tích 08m X 24m, hoàn thành 1961.
-- _Nhà thờ hiện tại:_ Khởi công tháng 08 năm 1999, khánh thành tháng 06 năm 2000, diện tích 13m X 32m. Xây dựng kiên cố, do giáo dân, ban hành giáo cộng tác với Cha Phêrô Nguyễn Tấn Khoa.
+- _Nhà thờ thứ ba:_ Do số giáo dân ngày càng tăng nên Cha Phaolô Trần ngọc Quí cùng các ông biện việc Hỏa và Quí xây dựng nhà thờ nằm trong sân nhà thờ ở phía dưới diện tích 8m x 24m, hoàn thành 1961.
+- _Nhà thờ hiện tại:_ Khởi công tháng 08 năm 1999, khánh thành tháng 06 năm 2000, diện tích 13m x 32m. Xây dựng kiên cố, do giáo dân, ban hành giáo cộng tác với Cha Phêrô Nguyễn Tấn Khoa.
 - Tháp chuông cao 14m xây dựng kiên cố năm 2001.
 - Tàng cốt đường với 400 ô.
-- Đất thánh của giáo xứ nằm cách nhà thờ 03 km đã chuẩn bị 200 kim tĩnh.
+- Đất thánh của giáo xứ nằm cách nhà thờ 3 km đã chuẩn bị 200 kim tĩnh.
 - Trong khuôn viên nhà thờ còn có:
-  - Nhà hưu dưỡng các Linh Mục: Xây dựng xong năm 1973, đã được sửa chữa và nâng cấp lại năm 2003. Xây mới thêm 08 căn khác để đáp ứng nhu cầu của các Linh Mục cần được an dưỡng trong Giáo phận.
+  - Nhà hưu dưỡng các Linh Mục: Xây dựng xong năm 1973, đã được sửa chữa và nâng cấp lại năm 2003. Xây mới thêm 8 căn khác để đáp ứng nhu cầu của các Linh Mục cần được an dưỡng trong Giáo phận.
   - Một trường tiểu học: Xây dựng năm 1968, có 5 phòng, sau năm 1975 nhà nước mượn 3 phòng cho các em học tiểu học đến nay đã trả lại. Giáo xứ đã sửa chữa để làm phòng sinh hoạt và dạy giáo lý, 2 phòng còn lại được dùng làm nhà xứ và phòng Cha sở.
 
 ### Phần 4: Hoạt động
