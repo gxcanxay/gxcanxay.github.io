@@ -3,7 +3,6 @@ layout: post
 title: Giới thiệu các cố hưu dưỡng tại Cần Xây
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/47fR2vq.jpg
 ---
 
