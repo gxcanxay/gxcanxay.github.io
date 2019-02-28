@@ -3,7 +3,6 @@ layout: post
 title: Đêm văn nghệ mừng xuân Nhâm Thìn 2012
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/PMaGD7G.jpg
 ---
 
