@@ -23,19 +23,19 @@ categories: []
     </p>
 </div>
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/cwduZ2k.jpg" title="Cha phó hiện tại"/>
     <p>Cha Phó hiện tại Giuse Nguyễn Đức Thịnh về giáo xứ ngày 10/08/2018</p>
 </div>
 
 ### Hội đồng mục vụ
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/6upfDd9.jpg" title="Hội đồng mục vụ khóa I"/>
     <p>Khóa I (2010-2014)</p>
 </div>
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/4SHFFew.jpg" title="Hội đồng mục vụ khóa II"/>
     <p>Khóa II (2015-2019)</p>
 </div>
@@ -46,14 +46,14 @@ categories: []
 4. Ủy viên PV: Ông PHAOLÔ Nguyễn Văn Sang
 5. Thư ký: Ông LÊO Thái Kim Quốc Hiếu
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/DsVWyod.jpg" title="Nguyên Cha sở, Hội đồng mục vụ và ban trị sự các khu"/>
     <p>Nguyên Cha sở, Hội đồng mục vụ và ban trị sự các khu</p>
 </div>
 
 ### Ban trị sự các khu
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/4hSwdWB.jpg" title="Ban trị sự khu I"/>
     <p>Ban trị sự khu I</p>
 </div>
@@ -63,28 +63,28 @@ categories: []
   - Ông Nguyễn Văn Long
   - Ông Huỳnh Lê Dinh
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/o3wL3rP.jpg" title="Ban trị sự khu II"/>
     <p>Ban trị sự khu II</p>
 </div>
 - Trưởng khu: Ông Phêrô Nguyễn Văn Ngọc
 - Phó khu: Ông Nguyễn Quốc Hưng
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/GX8pKZr.jpg" title="Ban trị sự khu III"/>
     <p>Ban trị sự khu III</p>
 </div>
 - Trưởng khu: Ông Anrê Phạm Tấn Lực
 - Phó khu: Ông Phạm Phú Sư
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/ckshDTz.jpg" title="Ban trị sự khu IV"/>
     <p>Ban trị sự khu IV</p>
 </div>
 - Trưởng khu: Ông Giuse Lê Thành Nguyên
 - Phó Khu: Ông Võ Hồng Nam
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/VoBra6Z.jpg" title="Ban trị sự khu V"/>
     <p>Ban trị sự khu V</p>
 </div>
@@ -93,7 +93,7 @@ categories: []
   - Ông Thái Minh Lợi
   - Ông Nguyễn Duy Thiện
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/jTMPC1G.jpg" title="Ban trị sự khu VI"/>
     <p>Ban trị sự khu VI</p>
 </div>
@@ -120,7 +120,7 @@ categories: []
   - _Thư ký:_ Bà Têrêsa Lê Thị Hoa Thúy
   - _Thủ quỹ:_ Bà Maria Phùng Thị Xuân
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/nsRiJje.jpg" title="Hội các bà mẹ Công giáo"/>
 </div>
 
