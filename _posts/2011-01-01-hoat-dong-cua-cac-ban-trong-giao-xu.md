@@ -3,7 +3,6 @@ layout: post
 title: Hoạt động của các ban trong giáo xứ
 author: va
 comments: true
-new: true
 ---
 
 ### Ban hòa giải

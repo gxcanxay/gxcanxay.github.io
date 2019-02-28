@@ -3,7 +3,6 @@ layout: post
 title: Ngày đền ơn đáp nghĩa (27/12)
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/yW4cef3.jpg
 ---
 

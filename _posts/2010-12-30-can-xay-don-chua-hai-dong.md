@@ -3,7 +3,6 @@ layout: post
 title: Cần Xây đón Chúa Hài Đồng
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/UUaVceG.jpg
 ---
 

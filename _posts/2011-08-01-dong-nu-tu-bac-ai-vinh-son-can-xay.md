@@ -4,7 +4,7 @@ title: Dòng Nữ tử Bác ái Vinh Sơn Cần Xây
 author: va
 comments: true
 new: true
-image: https://i.imgur.com/f0sV4o9.jpg
+image: https://i.imgur.com/CYHfWZU.jpg
 ---
 
 Thời gian trôi nhanh quá! Mới đó mà đã 83 năm! 83 năm hiện diện, 83 năm phục vụ, 83 năm hồng ân, 83 năm lặng lẽ…
@@ -40,6 +40,10 @@ Tương lai, đất nước còn quá nhiều khó khăn và thử thách. Nhìn
 <div class="center">
     <img src="https://i.imgur.com/gO5uJZh.jpg"/>
     <p>Dì Bình, Bí thư phường, trưởng trạm y tế, đại diện mặt trận ngày khám bệnh cho các em</p>
+</div>
+
+<div class="center">
+    <img src="https://i.imgur.com/f0sV4o9.jpg"/>
 </div>
 
 <div class="center">
