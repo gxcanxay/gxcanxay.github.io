@@ -8,14 +8,14 @@ categories: []
 
 ### Chịu trách nhiệm tại giáo phận
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/ADCWbb5.jpg" height="250px" title="Đức cha Giuse Trần Văn Toản"/>
     <p>Đức Cha: Giuse Trần Văn Toản</p>
 </div>
 
 ### Chịu trách nhiệm tại giáo xứ
 
-<div style="text-align:center;">
+<div class="center">
     <img src="https://i.imgur.com/4BTWXLO.jpg" height="400px" title="Cha sở và nguyên cha phó"/>
     <p>
         Cha Sở: Phaolô Trần Văn Khoa (phải hình)<br/>
