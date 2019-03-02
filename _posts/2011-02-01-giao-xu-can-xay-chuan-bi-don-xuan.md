@@ -3,7 +3,6 @@ layout: post
 title: Giáo xứ Cần Xây chuẩn bị đón xuân
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/Nj7WzXp.jpg
 ---
 

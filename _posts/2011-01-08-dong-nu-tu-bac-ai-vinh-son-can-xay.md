@@ -3,7 +3,6 @@ layout: post
 title: Dòng Nữ tử Bác ái Vinh Sơn Cần Xây
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/CYHfWZU.jpg
 ---
 
