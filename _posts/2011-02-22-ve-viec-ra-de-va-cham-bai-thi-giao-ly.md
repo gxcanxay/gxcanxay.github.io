@@ -3,7 +3,6 @@ layout: post
 title: Một vài gợi ý về việc ra đề và chấm bài thi giáo lý
 author: va
 comments: true
-new: true
 ---
 
 Giữa bối cảnh một thế giới và một xã hội phát triển rất nhanh, rất sâu và rất rộng về giáo dục, về văn hóa, về truyền thông đại chúng như hiện nay, đường hướng sư phạm hiện đại nói chung, Khoa Sư Phạm Huấn Giáo nói riêng, mời gọi một cách giảng dạy mới cũng như một cách ra đề bài và chấm thi khác hẳn thói quen lâu nay. Dựa vào kinh nghiệm dạy Giáo Lý cũng như đào tạo bồi dưỡng Giáo Lý Viên cho nhiều nơi, nhiều miền khác nhau, xin được mạnh dạn đề nghị ở đây 6 nguyên tắc chính yếu như sau:

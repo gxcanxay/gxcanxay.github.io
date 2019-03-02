@@ -4,7 +4,7 @@ title: Hình ảnh đêm phục sinh giáo xứ Cần Xây
 author: va
 comments: true
 new: true
-image: https://i.imgur.com/ax65maS.jpg
+image: https://i.imgur.com/aCfY3gB.jpg
 ---
 
 Chúa Kitô đã sống lại, đây là một vấn đề rất quan trọng và vô cùng ý nghĩa cho những người theo đạo Thiên Chúa. Tại sao vậy?
@@ -17,11 +17,12 @@ Chính từ ngôi mộ trống này mà quyền năng Thiên Chúa thể hiện.
 Vâng, Thiên Chúa là Đấng quyền năng trên sự sống và sự chết. Đức Giêsu đã nhiều lần loan báo cái chết của Người, nhưng sứ mạng của Người không dừng lại ở nấm mồ, cuộc đời của Người không kết thúc ở cái chết. Người đã trỗi dậy giữa những kẻ chết nhờ quyền năng của Thiên Chúa. Sinh thời, Đức Giêsu đã làm cho ông Ladarô chết bốn ngày được sống lại. Giờ đây, chính Người bước ra từ nấm mồ, vì Người là Thiên Chúa quyền năng. Người là chủ sự sống. Người có quyền trên sự chết. Người đã chiến thắng sự chết và qua đó, Người giải phóng con người khỏi nỗi sợ hãi do sự chết ám ảnh. Chúa sống lại thông báo một cuộc sống vĩnh cửu mà mỗi người chúng ta sẽ đến, nhưng chúng ta đến với hành trang ra sao? hưởng Thiên đàng để được chiêm ngắm Chúa hay phải trầm luân đau khổ đời đời. Nơi chúng ta đến tùy thuộc vào cuộc sống hiện tại nơi trần thế này sống tốt lành hay buông thả. Cuộc sống trần thế rất ngắn người ta thường nói đời người như một giấc chiêm bao hoặc người ta phân chia ra theo thời gian Dr Spalding nói "25 năm đầu là phát triển cuộc sống, 25 năm kế tiếp là lo sự nghiệp và từ 25 kế tiếp tức từ 50 tuổi trở đi hãy lo cho cuộc sống vĩnh cửu". Mỗi người chúng ta đang trên bước đường lữ thứ của cuộc sống tạm bợ này, còn thời gian hãy chuẩn bị thật chu đáo cho cuộc sống mà chúng ta cùng được sống lại để gặp gỡ Chúa Kitô khải hoàn.
 
 <div class="center">
-    <img src="https://i.imgur.com/8nwjUwy.jpg"/>
+    <img src="https://i.imgur.com/ax65maS.jpg"/>
+    <p>Chuẩn bị rước nến Phục Sinh</p>
 </div>
 
 <div class="center">
-    <img src="https://i.imgur.com/aCfY3gB.jpg"/>
+    <img src="https://i.imgur.com/8nwjUwy.jpg"/>
 </div>
 
 <div class="center">
@@ -30,6 +31,7 @@ Vâng, Thiên Chúa là Đấng quyền năng trên sự sống và sự chết.
 
 <div class="center">
     <img src="https://i.imgur.com/nnUkFe9.jpg"/>
+    <p>Công bố Tin Mừng Phục Sinh</p>
 </div>
 
 <div class="center">
@@ -50,6 +52,7 @@ Vâng, Thiên Chúa là Đấng quyền năng trên sự sống và sự chết.
 
 <div class="center">
     <img src="https://i.imgur.com/CWx8S39.jpg"/>
+    <p>Các tân tòng đêm Phục Sinh</p>
 </div>
 
 <div class="center">
@@ -70,6 +73,7 @@ Vâng, Thiên Chúa là Đấng quyền năng trên sự sống và sự chết.
 
 <div class="center">
     <img src="https://i.imgur.com/hBTYMks.jpg"/>
+    <p>Nghi thức rửa tội tân tòng</p>
 </div>
 
 <div class="center">
@@ -86,6 +90,7 @@ Vâng, Thiên Chúa là Đấng quyền năng trên sự sống và sự chết.
 
 <div class="center">
     <img src="https://i.imgur.com/lwkTDfQ.jpg"/>
+    <p>Ban Bí tích Thêm sức</p>
 </div>
 
 <div class="center">
