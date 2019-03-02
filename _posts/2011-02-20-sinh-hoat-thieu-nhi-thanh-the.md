@@ -3,7 +3,6 @@ layout: post
 title: Sinh hoạt Thiếu nhi Thánh Thể
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/Q4fUfM4.jpg
 ---
 
