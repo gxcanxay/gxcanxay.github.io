@@ -3,7 +3,6 @@ layout: post
 title: Soạn giáo án một bài giáo lý
 author: va
 comments: true
-new: true
 ---
 
 ### I. Chuẩn Bị

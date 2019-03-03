@@ -3,7 +3,6 @@ layout: post
 title: Hình ảnh đêm phục sinh giáo xứ Cần Xây
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/aCfY3gB.jpg
 ---
 
