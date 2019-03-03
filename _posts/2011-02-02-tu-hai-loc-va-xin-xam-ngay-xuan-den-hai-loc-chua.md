@@ -3,7 +3,6 @@ layout: post
 title: Từ hái lộc và xin xăm ngày xuân đến hái lộc Chúa
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/tVbbz6R.jpg
 ---
 
