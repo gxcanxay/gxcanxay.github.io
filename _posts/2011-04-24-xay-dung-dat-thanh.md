@@ -3,7 +3,6 @@ layout: post
 title: Xây dựng đất thánh giáo xứ Cần Xây
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/3oVlVO0.jpg
 ---
 
