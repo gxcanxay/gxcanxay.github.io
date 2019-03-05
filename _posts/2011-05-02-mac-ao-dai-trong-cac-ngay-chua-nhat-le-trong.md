@@ -3,7 +3,6 @@ layout: post
 title: Mặc áo dài trong các ngày Chúa nhật, lễ trọng
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/xazPmdx.jpg
 ---
 
