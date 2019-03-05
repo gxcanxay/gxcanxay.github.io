@@ -3,7 +3,6 @@ layout: post
 title: Nghi thức ra mắt và tuyên hứa Xứ đoàn Thánh Linh
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/NwgxvT2.jpg
 ---
 
