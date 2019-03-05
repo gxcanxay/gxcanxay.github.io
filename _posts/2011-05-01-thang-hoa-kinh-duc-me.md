@@ -3,7 +3,6 @@ layout: post
 title: Tháng hoa Đức Mẹ
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/SbiWgIP.jpg
 ---
 
