@@ -3,7 +3,6 @@ layout: post
 title: Bài giảng lễ Chúa Thánh Thần hiện xuống
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/NH7KHdO.png
 ---
 
