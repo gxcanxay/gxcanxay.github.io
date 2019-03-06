@@ -3,7 +3,6 @@ layout: post
 title: Mười hai hoa trái của Chúa Thánh Thần
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/HgaEA9F.jpg
 ---
 
