@@ -3,7 +3,6 @@ layout: post
 title: Cung nghinh tượng Mẹ - kết thúc tháng hoa
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/SbiWgIP.jpg
 ---
 
