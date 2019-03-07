@@ -3,7 +3,6 @@ layout: post
 title: Linh mục sống nghèo để có tiền giúp người nghèo
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/mJoZ08W.jpg
 ---
 
