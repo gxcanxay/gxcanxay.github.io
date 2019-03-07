@@ -3,7 +3,6 @@ layout: post
 title: Tinh thần thanh niên giáo xứ Cần Xây
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/JjcbJkf.jpg
 ---
 

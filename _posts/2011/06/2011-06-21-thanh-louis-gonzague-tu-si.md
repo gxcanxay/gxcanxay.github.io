@@ -3,7 +3,6 @@ layout: post
 title: Thánh Luis Gonzague, tu sĩ
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/3LXmN5R.jpg
 ---
 
