@@ -3,7 +3,6 @@ layout: post
 title: Hình ảnh trại hè thiếu nhi 2011
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/50reUnT.jpg
 ---
 
