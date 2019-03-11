@@ -3,7 +3,6 @@ layout: post
 title: Đức Cha về thăm và ban bí tích thêm sức tại giáo xứ Cần Xây
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/Qi1pjuY.jpg
 ---
 
