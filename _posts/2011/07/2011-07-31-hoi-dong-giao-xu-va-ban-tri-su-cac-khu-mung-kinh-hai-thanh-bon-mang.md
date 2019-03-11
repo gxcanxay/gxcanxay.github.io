@@ -3,7 +3,6 @@ layout: post
 title: Hội đồng giáo xứ và ban trị sự các khu mừng kính hai thánh bổn mạng
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/6upfDd9.jpg
 ---
 

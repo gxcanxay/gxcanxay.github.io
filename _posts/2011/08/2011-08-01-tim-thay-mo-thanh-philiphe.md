@@ -3,7 +3,6 @@ layout: post
 title: Tìm thấy mộ thánh Philiphê tông đồ tại Hierapolis, Thổ Nhĩ Kỳ
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/Vv4DRp5.jpg
 ---
 
