@@ -3,7 +3,6 @@ layout: post
 title: Thánh lễ đồng tế tại đất thánh giáo xứ Cần Xây
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/FMvvjwt.jpg
 ---
 
