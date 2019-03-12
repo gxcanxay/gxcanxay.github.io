@@ -3,7 +3,6 @@ layout: post
 title: Chính nhờ lời cầu nguyện của bà mà tôi được cứu thoát
 author: va
 comments: true
-new: true
 ---
 
 Bà Maria Agatha Simma chào đời ngày 5-2-1915 tại Sonntag bên nước Áo trong một gia đình Công Giáo nghèo thật nghèo. Bà có lòng yêu thương cách riêng các Đẳng Linh Hồn nơi Lửa Luyện Ngục. Vì thế, bà được Thiên Chúa chọn làm vị tông đồ giúp đỡ các Linh Hồn. Chúa cho phép các Đẳng Linh Hồn hiện về xin bà cầu nguyện hoặc làm việc đền bù phạt tạ thay cho các ngài. Xin nhường lời cho bà Maria Agata Simma.
