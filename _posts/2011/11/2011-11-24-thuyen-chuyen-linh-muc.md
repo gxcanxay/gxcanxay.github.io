@@ -3,7 +3,6 @@ layout: post
 title: Thuyên chuyển linh mục
 author: va
 comments: true
-new: true
 ---
 
 ### Hạt Chợ Mới

@@ -3,7 +3,6 @@ layout: post
 title: Chào mừng ngày nhà giáo Việt Nam
 author: va
 comments: true
-new: true
 ---
 
 ### Giáo xứ Cần Xây tổ chức thánh lễ mừng các thầy cô ngày nhà giáo
