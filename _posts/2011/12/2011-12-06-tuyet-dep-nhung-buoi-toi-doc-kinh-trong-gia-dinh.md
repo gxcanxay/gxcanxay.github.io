@@ -3,7 +3,6 @@ layout: post
 title: Tuyệt đẹp những buổi tối đọc kinh trong gia đình
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/3sYQTIi.jpg
 ---
 
