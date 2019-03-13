@@ -3,7 +3,6 @@ layout: post
 title: Tìm hiểu ý nghĩa và tinh thần mùa Vọng
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/7VHA4rV.jpg
 ---
 
