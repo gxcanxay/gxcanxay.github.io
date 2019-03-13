@@ -3,7 +3,6 @@ layout: post
 title: Giáo xứ Cần Xây chuẩn bị đón Chúa Hài Đồng
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/w4ateZ8.jpg
 ---
 
