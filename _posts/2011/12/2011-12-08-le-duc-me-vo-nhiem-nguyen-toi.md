@@ -3,7 +3,6 @@ layout: post
 title: Lễ Đức Mẹ vô nhiễm nguyên tội
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/iUkxWAd.jpg
 ---
 
