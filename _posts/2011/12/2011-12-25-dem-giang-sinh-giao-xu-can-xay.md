@@ -3,7 +3,6 @@ layout: post
 title: Đêm Giánh sinh tại giáo xứ Cần Xây
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/SEjCnoN.jpg
 ---
 
