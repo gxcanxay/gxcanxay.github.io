@@ -3,7 +3,6 @@ layout: post
 title: Thánh lễ tại đất thánh kính nhớ ông bà tổ tiên
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/jZxMU2Y.jpg
 ---
 
