@@ -3,7 +3,6 @@ layout: post
 title: Bài giảng Chúa nhật lễ Hiển Linh
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/I6cTKez.jpg
 ---
 
