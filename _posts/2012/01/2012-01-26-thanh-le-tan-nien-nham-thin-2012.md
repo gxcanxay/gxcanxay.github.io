@@ -3,7 +3,6 @@ layout: post
 title: Thánh lễ tân niên xuân Nhâm Thìn 2012
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/HalGohT.jpg
 ---
 
