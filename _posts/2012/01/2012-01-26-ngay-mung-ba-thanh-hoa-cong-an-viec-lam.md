@@ -3,7 +3,6 @@ layout: post
 title: Ngày mùng 3 thánh hóa công ăn việc làm và phương tiện
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/O6LnpfW.jpg
 ---
 
