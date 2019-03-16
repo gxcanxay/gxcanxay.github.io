@@ -3,7 +3,6 @@ layout: post
 title: Nguồn gốc ngày Valentine
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/vltUO5E.jpg
 ---
 
