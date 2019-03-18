@@ -3,7 +3,6 @@ layout: post
 title: Một câu chuyện về ông chủ tịch hội đồng mục vụ
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/75SINmZ.jpg
 ---
 
