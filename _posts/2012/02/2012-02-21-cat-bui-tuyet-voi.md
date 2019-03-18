@@ -3,7 +3,6 @@ layout: post
 title: Cát bụi tuyệt vời
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/3BHf2qI.jpg
 ---
 
