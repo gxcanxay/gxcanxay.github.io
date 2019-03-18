@@ -3,7 +3,6 @@ layout: post
 title: Bài giảng lễ Tình nhân
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/BwxyzJ1.jpg
 ---
 
