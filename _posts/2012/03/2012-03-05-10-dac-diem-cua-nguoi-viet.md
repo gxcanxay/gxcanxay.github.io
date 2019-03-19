@@ -3,7 +3,6 @@ layout: post
 title: 10 đặc điểm của người Việt
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/KabqtZf.jpg
 ---
 

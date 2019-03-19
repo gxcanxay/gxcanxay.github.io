@@ -3,7 +3,6 @@ layout: post
 title: YouCat - sách Giáo lý cho giới trẻ, hiện là sách Công giáo bán chạy nhất trên thế giới
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/M5rlE4z.jpg
 ---
 
