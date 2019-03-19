@@ -2,8 +2,7 @@
 layout: post
 title: Tình dục không có tội?
 author: va
-comments: true
-new: true
+comment: true
 ---
 
 Một buổi tọa đàm với chủ đề “Tình dục không có tội” đã được tổ chức tại Tp HCM ngày 12/2/2012. Đọc bài tường thuật của báo Thanh Niên, (số ra ngày 14/2/2012, tr.9), cho đến câu cuối cùng, tôi mới thấy rõ mục đích của buổi tọa đàm và mới thực sự hết khó chịu. Câu cuối cùng đó là phát biểu của một sinh viên đại diện cử tọa trẻ, như sau: “Chúng em đến đây không phải để cổ xúy, đấu tranh đòi hỏi về quyền quan hệ tình dục (TD) và quan hệ TD trước hôn nhân. Thực tế, chúng em rất thiếu kinh nghiệm, kỹ năng trang bị về vấn đề TD nên cần sự hỗ trợ, chia sẻ, có thể tiếp cận quyền này một cách phù hợp”.
