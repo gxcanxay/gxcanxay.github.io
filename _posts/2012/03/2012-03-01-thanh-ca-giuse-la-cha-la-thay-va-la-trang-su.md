@@ -3,7 +3,6 @@ layout: post
 title: Thánh cả Giuse là cha, là thầy và là trạng sư
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/aAOUGP9.jpg
 ---
 
