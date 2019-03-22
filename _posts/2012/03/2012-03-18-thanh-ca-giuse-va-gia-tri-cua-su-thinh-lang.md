@@ -3,7 +3,6 @@ layout: post
 title: Thánh cả Giuse và giá trị của sự thinh lặng
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/4FP909Y.jpg
 ---
 
