@@ -3,7 +3,6 @@ layout: post
 title: Xưng tội rước lễ mùa Phục sinh
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/T3wzIre.jpg
 ---
 
