@@ -43,96 +43,96 @@ Muôn đời con mãi ngợi ca Ơn Người
 <p style="text-align:right;">Vincente Maria Hoài Thanh (Mùa Phục Sinh 2012)</p>
 Một số hình ảnh đêm mừng Chúa phục sinh tại giáo Xứ Cần Xây
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/52O49Tc.jpg" />
-    <p>Làm phép lửa</p>
-</div>
+    <figcaption>Làm phép lửa</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/PkV0oWD.jpg" />
-    <p>Làm phép nến</p>
-</div>
+    <figcaption>Làm phép nến</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/2xRa0v2.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/POo4F8x.jpg" />
-    <p>Rước nến Phục Sinh</p>
-</div>
+    <figcaption>Rước nến Phục Sinh</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/mVpDovI.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/vsXsh81.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/wtcJTVX.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/hwryuPm.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/Ac5eRpS.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/334WzDO.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/7kU6gXT.jpg" />
-    <p>Công bố Tin Mừng Phục Sinh</p>
-</div>
+    <figcaption>Công bố Tin Mừng Phục Sinh</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/F8x0sbh.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/9x8LzxD.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/U856G7u.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/JWDQwar.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/QzgjdSb.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/tfL7NYY.jpg" />
-    <p>Hát kinh vinh danh</p>
-</div>
+    <figcaption>Hát kinh vinh danh</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/d45CpjD.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/vkjCfw2.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/n2hQLpD.jpg" />
-    <p>Làm phép nước</p>
-</div>
+    <figcaption>Làm phép nước</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/5nJYzod.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/SZbMMrI.jpg" />
-</div>
+</figure>
