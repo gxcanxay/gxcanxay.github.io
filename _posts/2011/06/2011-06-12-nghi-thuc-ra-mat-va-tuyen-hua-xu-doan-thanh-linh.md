@@ -13,65 +13,77 @@ Kết thúc nghi thức ra mắt các em vào nhà thờ để dự thánh lễ 
 
 Vậy là xứ đoàn thiếu nhi Thánh Linh giáo xứ Cần Xây đã được thành lập và kể từ hôm nay các em luôn phải nhớ mình là mầm non của giáo xứ, là thiếu nhi của Chúa Giêsu, phải sống gương mẫu để loan truyền Chúa cho mọi người nhất là nhưng bạn bè khác tôn giáo quanh chúng ta.
 
-<div class="center">
+<figure>
+    <img src="https://i.imgur.com/BMGKeLP.jpg">
+</figure>
+
+<figure>
+    <img src="https://i.imgur.com/RzvZxmf.jpg">
+</figure>
+
+<figure>
+    <img src="https://i.imgur.com/L4oRYoM.jpg">
+</figure>
+
+<figure>
     <img src="https://i.imgur.com/ec2BHh8.jpg"/>
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/Td1LUwA.jpg"/>
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/Sy4P09M.jpg"/>
-    <p>Nhận quyết định Xứ đoàn Thánh Linh</p>
-</div>
+    <figcaption>Nhận quyết định Xứ đoàn Thánh Linh</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/2AjXiIk.jpg"/>
-    <p>Lễ nghi trao cờ</p>
-</div>
+    <figcaption>Lễ nghi trao cờ</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/S4VTZK7.jpg"/>
-    <p>Cha tuyên úy trao cờ đoàn</p>
-</div>
+    <figcaption>Cha tuyên úy trao cờ đoàn</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/MRraL61.jpg"/>
-    <p>Chuẩn bị chào cờ</p>
-</div>
+    <figcaption>Chuẩn bị chào cờ</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/60RJAxN.jpg"/>
-    <p>Cha tuyên úy, các sơ trợ úy, cựu huynh trưởng, huynh trưởng mới</p>
-</div>
+    <figcaption>Cha tuyên úy, các sơ trợ úy, cựu huynh trưởng, huynh trưởng mới</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/hpQGWbu.jpg"/>
-    <p>Nhận chứng nhận huynh trưởng cấp I</p>
-</div>
+    <figcaption>Nhận chứng nhận huynh trưởng cấp I</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/T9FyjAm.jpg"/>
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/QZ30Egv.jpg"/>
-    <p>Thánh lễ tuyên hứa</p>
-</div>
+    <figcaption>Thánh lễ tuyên hứa</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/ImOUq9u.jpg"/>
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/PkTMMqc.jpg"/>
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/W1QIebt.jpg"/>
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/kNzmsaZ.jpg"/>
-</div>
+</figure>
