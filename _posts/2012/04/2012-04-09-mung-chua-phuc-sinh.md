@@ -3,7 +3,6 @@ layout: post
 title: Mừng Chúa Phục Sinh
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/5bc53dY.jpg
 ---
 
