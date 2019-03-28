@@ -12,32 +12,32 @@ Cuối thánh lễ, ông chủ tịch hội đồng mục vụ đại diện gi�
 
 Kết thúc thánh lễ là hái lộc thánh đầu xuân, mặc dù đã thông báo mỗi gia đình cử đại điện lên hái nhưng người nào cũng muốn mình được hưởng lộc thánh nên số người lên hái đổ dồn về cung thánh như dòng lũ để tìm lộc thánh cho mình.
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/WSdhMoY.jpg" />
-    <p>Mừng tuổi Chúa</p>
-</div>
+    <figcaption>Mừng tuổi Chúa</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/9C7sJGt.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/SrCAF8n.jpg" />
-    <p>Chúc tuổi và tặng quà quí cha</p>
-</div>
+    <figcaption>Chúc tuổi và tặng quà quí cha</figcaption>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/8dN7S1s.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/m2pOcqy.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/qOHGbt0.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/yhwQclz.jpg" />
-</div>
+</figure>

@@ -8,15 +8,15 @@ image: https://i.imgur.com/UUaVceG.jpg
 
 Để chuẩn bị cho lễ giáng sinh từ 3 tuần trước, Cha sở, Cha phó, Hội đồng mục vụ, các sơ, ban trị sự các khu, đại diện các hội đoàn đã họp để phân công người chịu trách nhiệm cụ thể cho từng công việc. Vì thế, khi bắt tay vào làm mọi sự đều trôi chảy: người làm hang đá, người treo đèn, cờ, người tập hoạt cảnh, người làm vệ sinh…Hình thức đã vậy, tâm hồn cũng được chuẩn bị rất chu đáo, chiều thứ năm ngày 23/12 các cha còn ngồi tòa tới 4g để những ai bận rộn chưa kịp dọn tâm hồn, các cha nhà hưu cũng sẵn sàng ngồi tòa bất cứ lúc nào khi có ai cần các Ngài. Tới trưa 24/12 mọi việc đã hoàn thành chỉ còn chờ tới giờ thánh lễ kỷ niệm Chúa sinh ra. Ngay từ 5 giờ 30 những người lo trật tự của các khu đã vào vị trí, do sự gắn bó tình cảm tốt giữa giáo quyền và chính quyền nên hai bên đã phối hợp giữ trật tự thật tốt.
 
-<div class="center">
+<figure >
     <img src="https://i.imgur.com/fyjMDJS.jpg" height="300px" title="Cần Xây đón Chúa Hài Đồng" />
-</div>
+</figure>
 
 Mới 6 giờ mà dòng người đã lũ lượt kéo về nhà thờ như dòng thác, càng đông hơn khi hoạt cảnh canh thức đón chờ Chúa bắt đầu, năm nay có sân khấu, có dàn nhạc, âm thanh, ánh sáng nên hùng vĩ hơn. Hoạt cảnh năm nay dài hơn, vì có cả phần cựu ước từ thời Abraham, các tiên tri tiên đoán về Chúa cứu thế, Thánh Gioan tiền hô, diễn biến truyền tin cho đến Chúa sinh ra do các em thiếu nhi, ca đoàn, giáo lý viên thực hiện dưới sự hướng dẫn của các Sơ dòng Nữ Tử Bác ái Cần Xây.
 
-<div class="center">
+<figure >
     <img src="https://i.imgur.com/5oyDVYI.jpg" height="300px" title="Cần Xây đón Chúa Hài Đồng" />
-</div>
+</figure>
 
 Kết thúc hoạt cảnh là rước Chúa Hài Đồng, đoàn rước đi trong hàng dây băng do các chị hiền mẫu mặc áo dài đủ màu dàn hàng thật nghiêm trang và lộng lẫy từ từ tiến vào nhà thờ và bài thánh ca Hát khen mừng Chúa Giáng sinh ra đời được cất lên nghe du dương cách lạ lùng, làm cho mỗi người như cảm nhận được Chúa đang thực sự ngự đến trong lòng, và mọi người dự lễ thật sốt sáng. Kết thúc thánh lễ ai ai cũng muốn ở lại chụp một tấm hình kỷ niệm bên hang đá ra khơi do cha phó thiết kế và tự tay làm với một con tầu đã nhổ neo chuẩn bị cuộc hành trình.
 

@@ -3,7 +3,6 @@ layout: post
 title: Những lưu ý trong phụng vụ Tam nhật vượt qua và mùa Phục sinh
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/pZTXXYh.jpg
 ---
 

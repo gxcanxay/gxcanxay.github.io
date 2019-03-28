@@ -10,34 +10,34 @@ Truyền thống Kitô giáo Việt Nam dành ngày mùng hai Tết hôm nay đ�
 
 Tiếp theo truyền thống cha ông, giáo xứ Cần Xây thánh lễ sáng mồng 2 dành cách đặc biệt để cầu nguyện cho ông bà cha mẹ những người còn sống và thánh lễ buổi chiều tại đất thánh cầu cho ông bà tổ tiên, cha mẹ những người đã khuất. Mặc dù tại đất thánh mới chỉ có trên 36 mộ nhưng từ 16 giờ số người hội tụ về đất thánh rât đông tạo nên một không khí vui tươi, gặp gỡ giữa người sống và người chết thật thắm tình và đầy xúc động. Sau đây là một số hình ảnh lễ tại đất thánh.
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/1VQmgUV.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/5k0aWPt.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/gpwdDJa.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/LLkeUGg.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/UxQIiuX.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/anZ06Kh.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/EvOqoPq.jpg" />
-</div>
+</figure>
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/QelJL43.jpg" />
-</div>
+</figure>

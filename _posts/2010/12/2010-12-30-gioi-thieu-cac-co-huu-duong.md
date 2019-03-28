@@ -18,9 +18,9 @@ Có tất cả 9 cố hiện đang nghỉ hưu tại Nhà Hưu Giáo phận…
 Như vậy không kể 2 phòng khách, chúng con còn 2 phòng với đầy đủ tiện nghi, Quý Cha nào chưa đến tuổi hưu, nếu muốn biết cảm giác hưu dưỡng như thế nào, hoặc muốn “tìm nơi thanh vắng” ít ngày như lời Chúa khuyên, chúng con rất hân hạnh đón tiếp.
 Tiếp theo, xin được giới thiệu từng cây đại thụ của giáo phận, hiện Chúa đang chăm sóc tại vườn hưu Cần Xây…
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/pvuiI4K.jpg" height="300px" title="Giới thiệu các cố hưu dưỡng" />
-</div>
+</figure>
 
 1. Trước hết, con xin giới thiệu Cố GK. MAI XUÂN TRIẾT. Cố sinh năm 1923, bốn ngày nữa Cố tròn 88 tuổi. Cố Gioakim thuộc hàng cao niên nhất giáo phận. Ngài đã từng phục vụ các giáo xứ Tân Chu, Thức Hóa, Hợp Châu, Tân Châu… Cố đã từng giữ chức vụ Cha Chính giáo phận. Hiện nay cố được các cố hưu dưỡng đặt làm Niên Trưởng Nhà Hưu.
    Xin anh chị em tràng pháo tay Chào Mừng Cố Niên Trưởng.
@@ -48,9 +48,9 @@ Tiếp theo, xin được giới thiệu từng cây đại thụ của giáo ph
 
 9. Cuối cùng, xin được giới thiệu “Chú Út” của nhà Hưu Giáo phận, hiểu theo nghĩa là người trẻ nhất, đó là Cố Phaolô ĐẶNG TUẤN SỰ. Cố sinh năm 1941. ít ngày nữa “Cố trẻ nhất” cũng sẽ bước sang tuổi Cổ lai hy. Cố đã từng phục vụ Tiểu Chủng viện Thánh Phụng Châu Đốc nhiều năm. Sau năm 1975, cố về phục vụ Họ đạo Cái Dầu. Xin anh chị em tràng pháo tay mừng Thất Tuần Cố Phaolô.
 
-<div class="center">
+<figure>
     <img src="https://i.imgur.com/ve1qfpf.jpg" height="300px" title="Giới thiệu các cố hưu dưỡng" />
-</div>
+</figure>
 
 Xin cảm ơn các cố đã bị chúng con làm phiền, phải đứng lên ngồi xuống… như thi Hoa
 Hậu… Chúng con nghĩ: Còn hơn cả Hoa Hậu, các Cố là Hòang tử chí ái của Chúa đó.
