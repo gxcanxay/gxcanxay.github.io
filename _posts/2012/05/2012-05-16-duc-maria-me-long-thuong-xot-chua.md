@@ -3,7 +3,6 @@ layout: post
 title: Đức Maria, Mẹ lòng thương xót Chúa
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/Pd5873a.jpg
 ---
 

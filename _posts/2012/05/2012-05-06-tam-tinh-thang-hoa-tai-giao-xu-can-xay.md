@@ -3,7 +3,6 @@ layout: post
 title: Tâm tình tháng hoa tại giáo xứ Cần Xây
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/d6RFhy7.jpg
 ---
 
