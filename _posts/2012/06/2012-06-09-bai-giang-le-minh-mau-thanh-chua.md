@@ -3,7 +3,6 @@ layout: post
 title: Bài giảng lễ Mình máu Thánh Chúa
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/GKTSp2i.jpg
 ---
 
