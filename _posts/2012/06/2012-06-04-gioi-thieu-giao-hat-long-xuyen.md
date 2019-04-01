@@ -3,7 +3,6 @@ layout: post
 title: Giới thiệu giáo hạt Long Xuyên
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/xYU7QFa.jpg
 ---
 
