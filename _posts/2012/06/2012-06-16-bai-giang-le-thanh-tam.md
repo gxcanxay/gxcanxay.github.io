@@ -3,7 +3,6 @@ layout: post
 title: Lễ Thánh Tâm
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/yGOHafq.jpg
 ---
 
