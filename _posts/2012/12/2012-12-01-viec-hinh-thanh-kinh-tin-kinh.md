@@ -3,7 +3,6 @@ layout: post
 title: Việc hình thành Kinh Tin Kính
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/VURqyGD.jpg
 ---
 
