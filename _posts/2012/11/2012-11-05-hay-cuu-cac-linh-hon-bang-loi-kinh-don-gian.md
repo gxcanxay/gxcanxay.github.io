@@ -3,7 +3,6 @@ layout: post
 title: Hãy cứu các linh hồn bằng lời kinh đơn giản
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/2vZkJZU.png
 ---
 
