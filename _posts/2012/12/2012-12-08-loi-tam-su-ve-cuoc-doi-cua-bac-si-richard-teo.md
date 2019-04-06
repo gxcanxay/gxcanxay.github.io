@@ -3,7 +3,6 @@ layout: post
 title: Lời tâm sự về cuộc đời của bác sĩ Richard Teo
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/YnJEwj3.jpg
 ---
 

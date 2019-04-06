@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hãy luôn tin tưởng nơi Thiên Chúa, cả khi phải đương đầu với các khó khăn cam go nhấ
+title: Hãy luôn tin tưởng nơi Thiên Chúa, cả khi phải đương đầu với các khó khăn cam go nhất
 author: va
 comments: true
 new: true
