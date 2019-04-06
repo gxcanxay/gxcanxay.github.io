@@ -3,7 +3,6 @@ layout: post
 title: Hình ảnh hang đá Bêlem
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/KxFFCTz.jpg
 ---
 
