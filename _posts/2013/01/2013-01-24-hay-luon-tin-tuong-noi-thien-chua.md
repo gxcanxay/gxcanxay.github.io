@@ -3,7 +3,6 @@ layout: post
 title: Hãy luôn tin tưởng nơi Thiên Chúa, cả khi phải đương đầu với các khó khăn cam go nhất
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/ez6RW6e.jpg
 ---
 
