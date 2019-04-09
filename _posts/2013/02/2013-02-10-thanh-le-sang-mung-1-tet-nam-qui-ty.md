@@ -3,7 +3,6 @@ layout: post
 title: Thánh lễ sáng mùng một tết năm Quí tỵ
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/GatSDlz.jpg
 ---
 
