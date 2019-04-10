@@ -3,7 +3,6 @@ layout: post
 title: Thánh lễ chiều mùng hai tết năm Quí tỵ cầu cho ông bà cha mẹ tại đất thánh
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/jHGZHR6.jpg
 ---
 
