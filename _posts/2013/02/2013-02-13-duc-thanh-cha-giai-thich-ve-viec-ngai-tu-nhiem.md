@@ -3,7 +3,6 @@ layout: post
 title: Đức Thánh Cha giải thích về việc ngài từ nhiệm
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/aSe32LJ.jpg
 ---
 
