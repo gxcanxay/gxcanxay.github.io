@@ -3,7 +3,6 @@ layout: post
 title: Nhà Tiệc ly là vấn đề then chốt của cuộc đàm phán Vatican Israel
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/kklDoOB.jpg
 ---
 
