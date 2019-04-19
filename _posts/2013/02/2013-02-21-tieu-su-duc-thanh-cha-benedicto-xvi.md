@@ -3,7 +3,6 @@ layout: post
 title: Tiểu sử Đức Thánh Cha Bênêđictô XVI
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/GmXkP77.jpg
 ---
 
