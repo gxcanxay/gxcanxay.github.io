@@ -3,7 +3,6 @@ layout: post
 title: Bầu giáo hoàng mới
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/oWjJNRE.jpg
 ---
 
