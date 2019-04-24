@@ -3,7 +3,6 @@ layout: post
 title: Hiểu biết về Vatican và Đức Giáo hoàng
 author: va
 comments: true
-new: true
 image: https://i.imgur.com/u9wmMwe.jpg
 ---
 
