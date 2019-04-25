@@ -4,7 +4,7 @@ title: Xây dựng nhà xứ giáo xứ Cần Xây
 author: va
 comments: true
 new: true
-image: https://i.imgur.com/jZU5EXr.jpg
+image: https://i.imgur.com/INeQQ15.jpg
 ---
 
 Để xây dựng một giáo xứ người ta thường nghĩ ngay đến nhà thờ, nhà xứ, trường học, nhà giáo lý. Riêng với giáo xứ Cần Xây từ ngày thành lập đến nay chưa bao giờ có nhà xứ. Là một giáo xứ nghèo nên các Cha Sở về nhận xứ đều dồn vào việc xây dựng Thánh Đường, trường học, đất thánh, khuôn viên Thánh đường. Nhà xứ lấy tạm một phòng học chia ra những phòng nhỏ làm nhà ở, phòng tiếp khách, nhà bếp, phòng ăn vì thế rất chật hẹp và thiếu tiện nghi không đủ chỗ cho Cha Sở và Cha Phó làm việc, sinh hoạt. Do sự quan phòng của Thiên Chúa, sự đóng góp công sức, vật chất nhỏ bé của từng giáo dân, đặc biệt hơn là sự hỗ trợ của các mạnh thường quân xa gần những phần lớn như: Nhà thờ, nhà giáo lý, đất thánh, khuôn viên nhà thờ đã ổn định. Vấn đề bắt đầu được đặt ra có xây nhà xứ không? Nếu xây kinh phí ở đâu ra…
